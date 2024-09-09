@@ -2,7 +2,7 @@
     "name": "My PWA",
     "short_name": "PWA",
     "description": "A simple PWA example",
-    "start_url": "/",
+    "start_url": "/pwa_test",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#317EFB",
