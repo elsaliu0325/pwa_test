@@ -3,7 +3,7 @@
     "short_name": "PWA",
     "description": "A simple PWA example",
     "start_url": "/pwa_test",
-    "display": "standalone",
+    "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#317EFB",
     "icons": [
